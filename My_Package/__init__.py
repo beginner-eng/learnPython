@@ -1,0 +1,1 @@
+__all__=['Pmodule1','Pmodule2']#import *时 可以使用这两个模块
